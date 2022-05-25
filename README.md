@@ -1,16 +1,7 @@
-# crypto_app
+# Crypto_app
 
-A new Flutter project.
+via CoinMarketCap API
 
-## Getting Started
+![Adsız 5](https://user-images.githubusercontent.com/81583706/170290705-32efdcec-019c-480f-afcf-b644103481c7.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Adsız 6](https://user-images.githubusercontent.com/81583706/170290761-7697a3eb-87b9-433d-bbdf-1c2e4099bc4f.png)
